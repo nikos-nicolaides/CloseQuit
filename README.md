@@ -5,7 +5,6 @@ A tiny menu-bar utility for macOS 12+ that quits an app when you close its last 
 ## Build & install
 
 ```bash
-cd CloseQuit
 chmod +x build.sh
 ./build.sh
 mv build/CloseQuit.app /Applications/
